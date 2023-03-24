@@ -1,12 +1,12 @@
 ### 👋 hi. it's me, gavin!
 
-i'm a software engineer by day, and I'm trying to do more ✨things ✨ over at [**thingsgavdoes**](https://thingsgavdoes.com)
+i'm a software engineer by day, amatuer woodworker, reader & cat parent by night! 
 
 
 --- 
 *speed dating intro round:*
-- 📚 I'm currently learning: **React**
-- 👯 I'm looking to contribute to: **open source projects** <sub>(*but I don't have much experience...*)</sub>
+- 📚 I'm currently learning: **Terraform & IaC solutions**
+- 👯 I'm working on: a [raycast](https://raycast.com) plugin to manage podman containers!
 - 💬 Talk to me about:
   - Vertical Farming 🌱
   - Hiking in Scotland 🌄
