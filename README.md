@@ -1,25 +1,12 @@
 ### 👋 hi. it's me, gavin!
 
-i'm a software engineer by day, amatuer woodworker, reader & cat parent by night! 
-
-
 --- 
 ### about me
-- 📚 I'm currently learning: Portuguese 🇧🇷
-- 👨‍💻 I'm working on: Open Banking Services
-- 💬 Talk to me about:
-  - Vertical Farming 🌱
-  - Pigeons & Collared Doves 🐦
-  - [Fat Bear Week](https://explore.org/fat-bear-week)
-  - Contributing to OS docs pages that are out of date!
-    
 
+I'm a software engineer, in sunny Leith, Scotland. 
 
+I struggle to keep a hobby down, but in the past I've been into: running, cycling, weightlifting, cooking, woodworking, skydiving, rugby, hiking, climbing, coffee, reading, & gaming.
 
+I pick up one or more of those every few months then get bored again, but that's life 🤷‍♀️
 
-
-
-
-
-
-<sub>*My profile image is toad from [Cat's Cafe Comics](https://www.catscafecomics.com/) by [@Matt Tarpley](https://twitter.com/CatsCafeComics) - go check him out!*<sub>
+I'm currently learning Portuguese 🇧🇷, and spending a lot of time trying to make life nicer for the pigeons that come to eat seeds on my balcony 🐦    
